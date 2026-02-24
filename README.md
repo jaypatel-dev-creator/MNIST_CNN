@@ -5,10 +5,15 @@
 This project implements a complete end-to-end **Convolutional Neural Network (CNN)** pipeline using **PyTorch** to classify handwritten digits from the **MNIST** dataset.
 
 The notebook demonstrates a clean, reproducible, and checkpoint-enabled deep learning workflow, covering dataset preparation, model design, training, validation, testing, inference, and model persistence — following real-world machine learning engineering best practices.
----
-Run notebook on colab
-(https://colab.research.google.com/github.com/jaypatel-dev-creator/MNIST_CNN/blob/main/MNISTCNN.ipynb)
----
+
+
+## Run Notebook in Google Colab
+
+Click below to run the notebook instantly without any local setup:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/jaypatel-dev-creator/MNIST_CNN/blob/main/MNISTCNN.ipynb
+)
 
 ## Key Features
 
